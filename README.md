@@ -12,3 +12,6 @@ Liked: it is a numerical column. 0 means negative and 1 means positive review.
 
 # Task
 The aim is to create a machine learning model which can classify the sentiment for the upcoming review.
+
+# Application
+Deploying te ML model made with NLP to integrate with a web application with the help of Flask to provide a User Interface.
