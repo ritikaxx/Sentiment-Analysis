@@ -1,5 +1,5 @@
 # Sentiment-Analysis-
-A Naive Bayes classifier model to predict the sentiment of phrases found in movie reviews using Natural Language Processing.
+A Naive Bayes Bernoulli and Gaussian classifier model to predict the sentiment of phrases found in movie reviews using Natural Language Processing.
 
 # Columns
 
